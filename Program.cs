@@ -223,7 +223,7 @@ namespace ConsoleApp10
             //{
             //    Console.WriteLine(item.Price);
             //}
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello World");
             Console.ReadLine();
 
 
