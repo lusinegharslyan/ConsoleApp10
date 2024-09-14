@@ -200,7 +200,7 @@ namespace ConsoleApp10
             //result.Sort((x, y) =>{ y.Price < x.Price});
 
             result.Sorting((x, y) => y.Price < x.Price);
-               
+
 
             //var sort = SortingByAscending(result);
             //foreach (var item in sort)
@@ -223,6 +223,7 @@ namespace ConsoleApp10
             //{
             //    Console.WriteLine(item.Price);
             //}
+            Console.WriteLine("Hello");
             Console.ReadLine();
 
 
